@@ -18,37 +18,14 @@ I'm a freelance web developer with 8 years of experience building performant, us
 
 ## 💻 Tech Stack
 
-**Frontend:**
-
-- React, Vue.js, Astro
-- Next.js, Gatsby
-- HTML5, CSS3, Sass, Tailwind CSS
-- JavaScript (ES6+), TypeScript
-
-**Backend & CMS:**
-
-- WordPress, WooCommerce
-- Node.js, npm
-- REST APIs, GraphQL
-
-**E-commerce & Payments:**
-
-- WooCommerce
-- Stripe Integration
-- Custom checkout flows
-
-**Tools & Testing:**
-
-- Git, GitHub
-- Storybook, Cypress, Jest
-- Lighthouse, WebPageTest
-- Figma
-
-**Additional:**
-
-- Python, Java
-- CI/CD pipelines
-- Accessibility (WCAG AAA standards)
+| Frontend | Backend & CMS | E-commerce | Tools & Testing |
+|----------|---------------|------------|-----------------|
+| React | WordPress | WooCommerce | Git & GitHub |
+| Vue.js | Node.js | Stripe | Cypress & Jest |
+| Astro | REST APIs | Payment Gateways | Storybook |
+| Next.js | GraphQL | Custom Checkouts | Lighthouse |
+| TypeScript | PHP | - | CI/CD (Azure) |
+| Sass/Tailwind | - | - | Figma |
 
 ---
 
