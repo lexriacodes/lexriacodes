@@ -107,15 +107,6 @@ Interactive lesson plans and coding exercises for K-12 students.
 
 ---
 
-## 🤝 Let's Work Together
-
-I'm available for freelance projects, contract work, and consulting. Whether you need an e-commerce store, custom web application, WordPress solution, or someone to teach your team best practices, I'm here to help.
-
-- 📧 **Email:** lexriacodes@proton.me
-- 💬 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alexandriamlewis/)
-
----
-
 ⭐ **Fun Fact:** I've grown newsletter programs generating millions in revenue AND taught elementary students their first lines of code—proving that great development is about impact at every scale.
 
 ---
