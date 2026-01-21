@@ -10,7 +10,7 @@ I'm a freelance web developer with 8 years of experience building performant, us
 
 - **Custom Web Applications** - Building fast, scalable apps with React, Vue.js, and Astro
 - **E-commerce Solutions** - WooCommerce stores with Stripe integration and custom functionality
-- **WordPress Development** - Theme customization, plugin development, and performance optimization
+- **WordPress Development** - Theme customization, plugin configuration, and performance optimization
 - **Web Performance & Accessibility** - AAA compliance, Core Web Vitals optimization, and user-first design
 - **Code Education** - Teaching K-12 students coding fundamentals with custom curriculum development
 
