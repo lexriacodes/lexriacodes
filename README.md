@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alexandria
 
-### Web Developer | Educator | Building the Future of Web & Teaching the Next Generation
+### Principal Consultant & Web Architect | Educator | Building the Future of Web & Teaching the Next Generation
 
-I'm a freelance web developer with 8 years of experience building performant, user-centric web applications. I specialize in modern JavaScript frameworks, WordPress/WooCommerce solutions, and accessible web design. When I'm not coding, I'm teaching K-12 students the fundamentals of programming and inspiring future developers.
+I'm a Principal Consultant & Web Architect with 8 years of experience building performant, user-centric web applications. I specialize in modern JavaScript frameworks, WordPress/WooCommerce solutions, and accessible web design. When I'm not coding, I'm teaching K-12 students the fundamentals of programming and inspiring future developers.
 
 ---
 
